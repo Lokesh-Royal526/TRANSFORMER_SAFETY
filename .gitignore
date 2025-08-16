@@ -10,4 +10,4 @@ ENV/
 *.sqlite3
 
 # Firebase Key
-src/firebase_config.json
+src/adminsdk.json
